@@ -60,4 +60,4 @@ This strategy dynamically adjusts position size based on market volatility and o
 ## 👤 Author
 
 **Mannan Srivastava**  
-First-year Data Science student, University of Bristol | GitHub: [your_username]([https://github.com/your_username](https://github.com/MannanS18))
+First-year Data Science student, University of Bristol | GitHub: (https://github.com/MannanS18))

@@ -1,14 +1,14 @@
-# 📈 Volatility-Scaled Trend-Following Strategy
+# Volatility-Scaled Trend-Following Strategy
 
 This strategy dynamically adjusts position size based on market volatility and only takes long positions in the S&P 500 when the price is above its 200-day moving average. It aims to reduce drawdowns while maintaining exposure during strong uptrends — outperforming a traditional buy-and-hold approach over the last 10 years.
 
 ---
 
-## 🚀 Strategy Summary
+## Strategy Summary
 
-- 🟢 **Trend Filter**: Invest only when the S&P 500 is above its 200-day MA  
-- 📉 **Volatility Scaling**: Reduce position size when markets are turbulent  
-- 💼 **Objective**: Target 10% annualised volatility while avoiding large drawdowns
+-  **Trend Filter**: Invest only when the S&P 500 is above its 200-day MA  
+-  **Volatility Scaling**: Reduce position size when markets are turbulent  
+-  **Objective**: Target 10% annualised volatility while avoiding large drawdowns
 
 ---
 
@@ -22,7 +22,7 @@ This strategy dynamically adjusts position size based on market volatility and o
 | Max Drawdown (Mkt)  |   33.92%   |
 | Sharpe Ratio        |    1.26    |
 
-> 📌 *Performance shown in chart below*
+>  *Performance shown in chart below*
 
 ---
 
@@ -32,7 +32,7 @@ This strategy dynamically adjusts position size based on market volatility and o
 
 ---
 
-## 🧠 Insights
+##  Insights
 
 - Strategy avoided 2020 and 2022 drawdowns by exiting during trend breakdowns  
 - Exposure was highest during calm uptrends (e.g., 2019, 2023)  
@@ -40,7 +40,7 @@ This strategy dynamically adjusts position size based on market volatility and o
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - Python  
 - yFinance (data)  
@@ -50,14 +50,14 @@ This strategy dynamically adjusts position size based on market volatility and o
 
 ---
 
-## 📁 Files
+##  Files
 
 - `strategy.ipynb` — Full working notebook  
 - `chart.png` — Performance chart  
 
 ---
 
-## 👤 Author
+##  Author
 
 **Mannan Srivastava**  
 First-year Data Science student, University of Bristol | GitHub: (https://github.com/MannanS18))

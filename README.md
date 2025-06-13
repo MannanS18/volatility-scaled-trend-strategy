@@ -12,7 +12,7 @@ This strategy dynamically adjusts position size based on market volatility and o
 
 ---
 
-## 📊 Results
+## Results
 
 | Metric              | Value      |
 |---------------------|------------|

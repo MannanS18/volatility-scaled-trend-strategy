@@ -26,7 +26,7 @@ This strategy dynamically adjusts position size based on market volatility and o
 
 ---
 
-## 📈 Performance Chart
+## Performance Chart
 
 ![Strategy vs Buy & Hold](chart.png)
 
